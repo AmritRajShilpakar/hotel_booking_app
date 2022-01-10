@@ -8,7 +8,7 @@ class HotelBookingApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomePageWidget(),
-      title: 'Hotel Booking Application',
+      title: 'Hotel Booking App',
     );
   }
 }
